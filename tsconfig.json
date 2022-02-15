@@ -6,6 +6,7 @@
       "@nupt/foo": ["foo/src"],
       "@nupt/foobar": ["bar/src"],
       "@nupt/*": ["*/src"]
-    }
+    },
+    "noEmit": true
   }
 }
