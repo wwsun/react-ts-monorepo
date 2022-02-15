@@ -1,5 +1,2 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.foo = void 0;
-exports.foo = 'foo';
+export const foo = 'foo';
 //# sourceMappingURL=index.js.map
