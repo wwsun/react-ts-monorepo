@@ -1,6 +1,6 @@
 {
   "name": "@nupt/foobar",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "foobar package",
   "author": "wwsun <ww.sun@outlook.com>",
   "homepage": "https://github.com/wwsun/react-ts-monorepo#readme",
@@ -21,7 +21,7 @@
     "prepublishOnly": "yarn build"
   },
   "dependencies": {
-    "@nupt/foo": "^0.1.0"
+    "@nupt/foo": "^0.1.1"
   },
   "bugs": {
     "url": "https://github.com/wwsun/react-ts-monorepo/issues"
